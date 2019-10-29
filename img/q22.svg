@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Options" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#828E93;}
+	.st2{fill:none;stroke:#828E93;stroke-width:5.67;stroke-miterlimit:10;}
+	.st3{opacity:0.25;fill:#50565B;enable-background:new    ;}
+</style>
+<title>Artboard 2 copy 3</title>
+<rect class="st0" width="400" height="400"/>
+<rect x="40" y="160" class="st1" width="10" height="200"/>
+<rect x="80" y="120" class="st1" width="10" height="240"/>
+<rect x="120" y="160" class="st1" width="10" height="200"/>
+<rect x="160" y="120" class="st1" width="10" height="240"/>
+<rect x="230" y="120" class="st1" width="10" height="240"/>
+<rect x="270" y="160" class="st1" width="10" height="200"/>
+<rect x="310" y="120" class="st1" width="10" height="240"/>
+<rect x="350" y="160" class="st1" width="10" height="200"/>
+<path class="st1" d="M183.4,180h33.2c4.6,0,8.4,3.8,8.4,8.4v23.2c0,4.6-3.8,8.4-8.4,8.4h-33.2c-4.6,0-8.4-3.8-8.4-8.4v-23.2
+	C175,183.8,178.8,180,183.4,180z"/>
+<polygon class="st1" points="170,170 197.5,197.5 197.5,190 166.2,158.8 "/>
+<polygon class="st1" points="232.5,166.2 205,193.8 205,186.2 236.2,155 "/>
+<path class="st2" d="M200,170L200,170c5.5,0,10,4.5,10,10l0,0c0,5.5-4.5,10-10,10l0,0c-5.5,0-10-4.5-10-10l0,0
+	C190,174.5,194.5,170,200,170z"/>
+<rect x="20" y="350" class="st1" width="150" height="10"/>
+<rect x="230" y="350" class="st1" width="150" height="10"/>
+<circle class="st1" cx="45" cy="160" r="10"/>
+<circle class="st1" cx="125" cy="160" r="10"/>
+<circle class="st1" cx="85" cy="120" r="10"/>
+<circle class="st1" cx="315" cy="120" r="10"/>
+<circle class="st1" cx="275" cy="160" r="10"/>
+<circle class="st1" cx="355" cy="160" r="10"/>
+<path class="st1" d="M230,120l2.9-11.5c0.3-1.2,1.5-1.9,2.7-1.6c0.8,0.2,1.4,0.8,1.6,1.6L240,120H230z"/>
+<path class="st1" d="M160,120l2.9-11.5c0.3-1.2,1.5-1.9,2.7-1.6c0.8,0.2,1.4,0.8,1.6,1.6L170,120H160z"/>
+<polygon class="st1" points="50,210 80,180 80,190 50,220 "/>
+<polygon class="st1" points="50,270 80,240 80,250 50,280 "/>
+<polygon class="st1" points="50,330 80,300 80,310 50,340 "/>
+<polygon class="st1" points="130,210 160,180 160,190 130,220 "/>
+<polygon class="st1" points="130,270 160,240 160,250 130,280 "/>
+<polygon class="st1" points="130,330 160,300 160,310 130,340 "/>
+<polygon class="st1" points="240,210 270,180 270,190 240,220 "/>
+<polygon class="st1" points="240,270 270,240 270,250 240,280 "/>
+<polygon class="st1" points="240,330 270,300 270,310 240,340 "/>
+<polygon class="st1" points="320,210 350,180 350,190 320,220 "/>
+<polygon class="st1" points="320,270 350,240 350,250 320,280 "/>
+<polygon class="st1" points="320,330 350,300 350,310 320,340 "/>
+<polygon class="st1" points="90,210 120,240 120,250 90,220 "/>
+<polygon class="st1" points="90,270 120,300 120,310 90,280 "/>
+<polygon class="st1" points="280,210 310,240 310,250 280,220 "/>
+<polygon class="st1" points="280,270 310,300 310,310 280,280 "/>
+<path class="st3" d="M200,195L200,195c2.8,0,5,2.2,5,5v10c0,2.8-2.2,5-5,5l0,0c-2.8,0-5-2.2-5-5v-10C195,197.2,197.2,195,200,195z"
+	/>
+<circle class="st3" cx="200" cy="197.5" r="7.5"/>
+</svg>
